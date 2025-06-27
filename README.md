@@ -74,6 +74,4 @@ To get a local copy up and running, follow these simple steps.
 - `public/data/`: Contains the `dataset.json` file used for loading chat transcripts.
 - `src/lib/`: Shared utilities and type definitions.
 
-## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
